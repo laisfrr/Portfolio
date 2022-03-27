@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/laisfrr">
-        <img src="./img/preview_mobile.png" width="200px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./img/preview_mobile.png" width="200px;" alt=""/><br>
       </a>
     </td>
   </tr>
@@ -58,7 +58,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/laisfrr">
-        <img src="./img/avatar.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./img/avatar.jpg" width="100px;" alt=""/><br>
         <sub>
           <b>Laís Oliveira</b>
         </sub>
